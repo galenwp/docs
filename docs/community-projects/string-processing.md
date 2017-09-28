@@ -1,7 +1,7 @@
 ---
 navhome: /docs/
 sort: 3
-title: A Hoon string processing library
+title: Hoon string processing
 next: true
 ---
 
