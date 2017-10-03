@@ -12,9 +12,10 @@ sort: 4
 
 <div class="col-md-12 head">
 
+<div class="sections, col-md-6">
+    <kids grid="false"></kids>
 </div>
 
-<div class="sections">
-    <kids grid="true"></kids>
 </div>
+
 
