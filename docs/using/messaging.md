@@ -1,7 +1,7 @@
 ---
-navhome: '/docs'
+navhome: /docs
 next: True
-sort: 4
+sort: 5
 title: Messaging (:talk)
 ---
 

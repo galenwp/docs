@@ -1,7 +1,7 @@
 ---
-navhome: '/docs'
+navhome: /docs
 next: True
-sort: 2
+sort: 3
 title: Setup
 ---
 

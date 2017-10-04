@@ -1,7 +1,7 @@
 ---
 navhome: /docs/
 next: true
-sort: 1
+sort: 2
 title: Install
 ---
 

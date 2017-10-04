@@ -1,7 +1,7 @@
 ---
-navhome: '/docs'
+navhome: /docs
 next: True
-sort: 5
+sort: 6
 title: Shell (:dojo)
 ---
 
