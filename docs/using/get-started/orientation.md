@@ -1,6 +1,5 @@
 ---
 navhome: /docs
-next: True
 sort: 4
 title: Orientation
 ---
@@ -25,4 +24,3 @@ Should produce:
     4
 
 Good.
-
