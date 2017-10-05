@@ -1,8 +1,8 @@
 ---
 navhome: /docs/
-sort: 6
+sort: 1
 ---
 
-# About
+# Community
 
-<list/>
+

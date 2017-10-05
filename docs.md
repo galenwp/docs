@@ -10,100 +10,95 @@ sort: 4
     <h1 class="blue i-b">Urbit development</h1>
 </div>
 
+<h2>Latest</h2>
+
+<div class="row head">
+    <div class="col-md-4">
+        <h3>This Week in Urbit</h3>
+        <ul>
+            <li><a href="https://urbit.org/fora"><code>~2017.10.6</code></a></li>
+            <li><a href="https://urbit.org/fora"><code>~2017.9.28</code></a></li>
+            <li><a href="https://urbit.org/fora"><code>~2017.9.21</code></a></li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <h3>Blog</h3>
+        <ul>
+            <li><a href="https://urbit.org/blog/2017.9-critique/">Urbit and the blockchain wars</a></li>
+            <li><a href="https://urbit.org/blog/2017.9-eth/">Bootstrapping Urbit from Ethereum</a></li>
+            <li><a href="https://urbit.org/blog/2017.8-update/">Update: August 2017</a></li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <h3>Feeds</h3>
+        <ul>
+            <li><a href="https://urbit.org/docs/using/messaging">Talk</a></li>
+            <li><a href="https://urbit.org/fora">Fora</a></li>
+            <li><a href="https://twitter.com/urbit">Twitter</a></li>
+            <li><a href="https://github.com/urbit">Github</a></li>
+        </ul>
+    </div>
+</div>
+
+<h2>Community</h2>
+
+<div class="row head">
+    <div class="col-md-4">
+        <h3>Community media</h3>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=kh4Ai5YXFaA">Mars Talk, Ep. 2: ~master-morzod talks about Urbit's OS, Arvo</a></li>
+            <li><a href="https://www.youtube.com/watch?v=lX0xx70TcJE">Mars Talk, Ep. 1: ~poldec-tonteg on Urbit web development</a></li>
+            <li><a href="https://www.youtube.com/watch?v=LFalNG4eTqU">Mars Talk, Ep. 0: ~rovnys-ricfer and ~taglux-nidsep on Urbit</a></li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <h3>Community projects</h3>
+        <list dataPath="/docs/community/projects"></list>
+    </div>
+    <div class="col-md-4">
+        <h3>Community docs</h3>
+        <list dataPath="/docs/community/docs"></list>
+    </div>
+</div>
+
+<h2>Using</h2>
+<div class="row">
+    <div class="col-md-5">
+        <h3>Get started</h3>
+        <list dataPath="/docs/using/get-started"></list>
+    </div>
+    <div class="col-md-5">
+        <h3>Flight manual</h3>
+        <list dataPath="/docs/using/manual"></list>
+    </div>
+</div>
+
+<br />
+
+<h2>Developers</h2>
 <div class="col-md-12 head">
-
-# Latest
-
-<div class="col-md-4">
-
-### [`~mastyr-harlud` on The State of the Urbit Docs](https://urbit.org/fora/posts/~2017.10.3..03.04.45..b532~/)
-#### `~2017.10.3` 
-
+<div class="row">
+    <div class="sections col-md-5">
+        <h3>Learn</h3>
+        <list dataPath="/docs/byte"></list>
+        <h3>Vere</h3>
+        <list dataPath="/docs/vere"></list>
+        <h3>Nock</h3>
+        <list dataPath="/docs/nock"></list>
+        <h3>Hoon</h3>
+        <list dataPath="/docs/hoon"></list>
+        <h3>Arvo</h3>
+        <list dataPath="/docs/arvo"></list>
+    </div>
+    <div class="sections col-md-5">
+        <h3>General</h3>
+        <list dataPath="/docs/general"></list>
+        <h3>Urbit Projects</h3>
+        <list dataPath="/docs/up"></list>
+        <h3>Examples</h3>
+        <list dataPath="/docs/examples"></list>
+        <h3>Contributing</h3>
+        <list dataPath="/docs/contributing"></list>
+    </div>
 </div>
-
-<div class="col-md-4">
-
-### [`~poldec-tonteg` on Urbit web development](https://urbit.org/fora/posts/~2017.9.28..04.10.26..a4bb~/)
-#### `~2017.9.28` 
-
 </div>
-
-<div class="col-md-4">
-
-### [Bootstrapping Urbit from Ethereum](https://urbit.org/blog/2017.9-eth/)
-#### `~2017.9.20`
-
-</div>
-
-</div>
-
-<div class="col-md-12 head">
-
-# Overview
-
-<div class="col-md-4">
-
-### Community
-
-- **Chat with us on [Talk](https://urbit.org/stream)**
-- **Our discussion forum [Fora](http://urbit.org/fora)**
-- **[Community docs](./community-docs)**
-- **[Community projects](./community-projects)**
-
-</div>
-
-<div class="col-md-4">
-
-### Source code on [GitHub](https://github.com/urbit)
-
-- **[`urbit` - An operating function](https://github.com/urbit/urbit)**
-- **[`arvo` - The Urbit operating system](https://github.com/urbit/arvo)**
-- **[`tree`- Urbit from the Web](https://github.com/urbit/tree)**
-- **[`talk` - Urbit chat and notifications](https://github.com/urbit/talk)**
-- **[`sole` - Urbit web terminal](https://github.com/urbit/sole)**
-- **[`docs` - The Urbit docs](https://github.com/urbit/docs)**
-- **[`examples` - Urbit examples](https://github.com/urbit/examples)**
-
-</div>
-
-<div class="col-md-4">
-
-### About the project
-
-- **[Technical overview](./about/overview)**
-- **[Urbit glossary](./about/glossary)**
-- **[Common objections to Urbit](./about/objections)**
-- **[C runtime system](./about/runtime)**
-- **[Contributing to Urbit](./about/contributing)**
-
-</div>
-
-</div>
-
-<div class="col-md-12 head">
-
-# Docs
-
-<div class="sections col-md-5">
-    <kids grid="false"></kids>
-</div>
-
-<div class="col-md-2">
-</div>
-
-<div class="col-md-5">
-
-### Source code on [GitHub](https://github.com/urbit)
-
-- **[`urbit` - An operating function](https://github.com/urbit/urbit)**
-- **[`arvo` - The Urbit operating system](https://github.com/urbit/arvo)**
-- **[`tree`- The web interface for your Urbit](https://github.com/urbit/tree)**
-- **[`talk` - Urbit notifications and chat module](https://github.com/urbit/talk)**
-- **[`sole` - Urbit web terminal](https://github.com/urbit/sole)**
-- **[`docs` - The Urbit docs](https://github.com/urbit/docs)**
-- **[`examples` - Urbit examples](https://github.com/urbit/examples)**
-
-</div>
-
-</div>
-

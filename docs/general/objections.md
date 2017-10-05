@@ -1,5 +1,5 @@
 ---
-navhome: '/docs'
+navhome: /docs
 next: True
 sort: 5
 title: Common objections to Urbit

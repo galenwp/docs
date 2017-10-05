@@ -3,6 +3,6 @@ navhome: /docs/
 sort: 1
 ---
 
-# Using
+# Get Started
 
 <list/>

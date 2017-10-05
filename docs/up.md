@@ -1,8 +1,8 @@
 ---
 navhome: /docs/
-sort: 1
+sort: 2
 ---
 
-# Using
+# Urbit Projects
 
 <list/>
